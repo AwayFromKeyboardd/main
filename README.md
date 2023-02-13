@@ -12,6 +12,8 @@
 |4|Member| 2018139 | [Polidoros Stefanidis](https://github.com/p18stef)|
 |5|Member| 2018140 | [Dimitris Tzourmanas](https://github.com/TZOYRMANAS)|
 |6|Member| 2018122 | [Andreas Karageorgiou](https://github.com/AndreasKarageorgiou)|
+|7|Member| 2019020 | [Alexandros Karvounis](https://github.com/alkarvounis)|
+
 
 
 ## Γενικοί στόχοι:
